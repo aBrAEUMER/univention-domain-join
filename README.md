@@ -13,7 +13,7 @@ Server (UCS) domains. It will perform the following steps for you:
 Univention Domain Join supports the following Linux distributions:
 
 - `ubuntu22.04`
-  - Ubuntu 20.04 LTS („Jammy Jellyfish“)
+  - Ubuntu 22.04 LTS („Jammy Jellyfish“)
   - Linux Mint 21 („Vanessa“)
 - `ubuntu20.04`
   - Ubuntu 20.04 LTS („Focal Fossa“)
